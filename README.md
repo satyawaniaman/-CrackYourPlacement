@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
+| [0355-design-twitter](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0355-design-twitter) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0645-set-mismatch) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
+| [0355-design-twitter](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0355-design-twitter) |
 | [0658-find-k-closest-elements](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0658-find-k-closest-elements) |
 ## Quickselect
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0328-odd-even-linked-list) |
+| [0355-design-twitter](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0355-design-twitter) |
 | [0908-middle-of-the-linked-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1582-design-browser-history](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1582-design-browser-history) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/0355-design-twitter) |
 | [1582-design-browser-history](https://github.com/satyawaniaman/-CrackYourPlacement/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
 |  |
